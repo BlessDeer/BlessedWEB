@@ -89,7 +89,7 @@ function showContent(page) {
                     </div>`;
                 break;
             case 'contact':
-                document.querySelector("main").style.backgroundImage = "url('./images/c4.png')";
+                document.querySelector("main").style.backgroundImage = "url('./images/c4.jpg')";
                 mainContent.innerHTML = `
                     <div class="content-flex">
                         <div class="content-text" id="contact">
