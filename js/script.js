@@ -94,7 +94,7 @@ function showContent(page) {
                     <div class="content-flex">
                         <div class="content-text" id="contact">
                             <h2>聯絡資訊</h2>
-                            <p>公司地址: 台中市外埔區永豐里六分路120之8號</p>
+                            <p>公司地址: 台中市外埔區甲後路三段792巷41號</p>
                             <p>電話: 0989-001-066</p>
                             <p>Email: bless.deer@gmail.com</p>
                             <img src="./images/line.png">
